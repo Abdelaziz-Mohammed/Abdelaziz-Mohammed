@@ -5,7 +5,11 @@
 
 ### 🤝 Connect with me on LinkedIn:
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/abdelaziz/)  
+<p align="left">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelaziz/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/abdelaziz/" height="30" width="40" /></a>
+</p>
 
 ---
 
